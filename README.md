@@ -14,7 +14,7 @@ Para utilizar Tabla.js, simplemente incluye el archivo tabla.js en tu proyecto:
 Asegúrate de incluir también Bootstrap 4.5 o superior en tu proyecto si deseas aprovechar sus estilos.
 
 **Uso**
-![Imagen de ejemplo 1](./tabla-js/imagenes/ejemplo2.png)
+![Imagen de ejemplo 1](./tabla_boostrap_tabla-js/imagenes/ejemplo1.png)
 
 **Documentación Completa**
 Para obtener información detallada sobre las funciones disponibles y su uso, consulta la documentación completa en el archivo DOCUMENTACION.docx.
