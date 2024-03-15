@@ -9,7 +9,7 @@ es una librería JavaScript que te permite crear y manipular tablas de datos de 
 
 **Instalación**
 Para utilizar Tabla.js, simplemente incluye el archivo tabla.js en tu proyecto:
-![Imagen de ejemplo 1](./tabla_boostrap_tabla-js/tabla-js/imagenes/ejemplo1.png)
+![Imagen de ejemplo 1](./tabla_boostrap_tabla-js/imagenes/ejemplo1.png)
 
 Asegúrate de incluir también Bootstrap 4.5 o superior en tu proyecto si deseas aprovechar sus estilos.
 
